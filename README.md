@@ -164,7 +164,7 @@ Endpoint to execute:
 
 Endpoint method:
  + GET
- 
+
 We assume that a reasonable time for you to be able to solve this challenge is 4 hours.
 
 ###### Español
@@ -314,7 +314,7 @@ Response received:
                 }]
 }
 ```
-Ejemplo:
+Example:
 
 ```
 Parámetros del endpoint:
