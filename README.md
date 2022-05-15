@@ -1,4 +1,6 @@
 # Challenge NodeJS and MongoDB
+---
+## Developer: Emilio Gonzales
 
 ###### English
 
@@ -299,3 +301,19 @@ Response received:
 ```
 
 Estimamos que un tiempo razonable para que puedas resolver este desafío es de 4 horas.
+---
+Ejemplo:
+
+```
+Parámetros del endpoint:
+ + dateFrom: "2021-01-05T00:01:00.000Z", (no obligatorio)
+ + dateTo: "2022-05-15T06:30:00.000Z", (no obligatorio)
+ + weight: 1200, (no obligatorio)
+ + page: 1,
+ + limit 1,
+
+Endpoint a ejecutar: 
+ + http://localhost:4000/api/v1/deliveries?weight=1200&dateFrom=2021-01-05T00:01:00.000Z&dateTo=2022-05-15T06:30:00.000Z&limit=15&page=1
+
+Método endpoint:
+ + GET
