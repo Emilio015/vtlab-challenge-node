@@ -299,9 +299,6 @@ Response received:
                 }]
 }
 ```
-
-Estimamos que un tiempo razonable para que puedas resolver este desafío es de 4 horas.
----
 Ejemplo:
 
 ```
@@ -317,3 +314,5 @@ Endpoint a ejecutar:
 
 Método endpoint:
  + GET
+
+Estimamos que un tiempo razonable para que puedas resolver este desafío es de 4 horas.
