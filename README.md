@@ -149,7 +149,22 @@ Response received:
                 }]
 }
 ```
+Example:
 
+```
+Endpoint Parameters:
+ + dateFrom: "2021-01-05T00:01:00.000Z", (not required)
+ + dateTo: "2022-05-15T06:30:00.000Z", (not required)
+ + weight: 1200, (not required)
+ + page: 1,
+ + limit 1,
+
+Endpoint to execute: 
+ + http://localhost:4000/api/v1/deliveries?weight=1200&dateFrom=2021-01-05T00:01:00.000Z&dateTo=2022-05-15T06:30:00.000Z&limit=15&page=1
+
+Endpoint method:
+ + GET
+ 
 We assume that a reasonable time for you to be able to solve this challenge is 4 hours.
 
 ###### Español
