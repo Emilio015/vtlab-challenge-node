@@ -314,7 +314,7 @@ Response received:
                 }]
 }
 ```
-Example:
+Ejemplo:
 
 ```
 Parámetros del endpoint:
